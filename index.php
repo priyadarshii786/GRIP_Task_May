@@ -127,7 +127,7 @@
 
 
     <footer class="text-center  p-3 bg-dark text-white">
-      <p>2023 <b>Soniya Naskar</b> </br>Chairman, Foundation Bank</p>
+      <p>2023 <b>Tathagat Priyadarshi</b> </br>Chairman, Foundation Bank</p>
     </footer>
 
 
